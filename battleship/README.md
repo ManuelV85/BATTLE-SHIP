@@ -6,7 +6,7 @@
 
 ## Installation
 
-You can run this repository following the next steps:
+>You can run this repository following the next steps:
 
 - Clone this repository from (https://github.com/ManuelV85/BATTLE-SHIP.git)
 - Install the proyect dependencies by running ***npm install***
